@@ -1,0 +1,10 @@
+{
+    "name": "Is It Rusev Day ?",
+    "description" : "Check To See If Today Is Rusev Day",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
